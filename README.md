@@ -12,3 +12,12 @@ Add article: POST /articles
 Search article: GET /articles/search?q=
 View Article by ID: GET /articles/id
 View all articles: GET /articles/all
+
+Files used:
+1] post.html
+a simple html form to post the articles
+does not allow default values to be posted 
+
+2] mini_search.js
+POST articles
+GET articles by content,id,all articles
